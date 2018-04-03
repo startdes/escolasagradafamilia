@@ -1,0 +1,64 @@
+.logo {
+    width: 550px;
+}
+
+.divlinks {
+    width: 100%;
+    max-width: 400px;
+    text-align: center;
+    line-height: 25px;
+}
+
+.divcenter {
+    text-align: center;
+}
+
+.divconteudo {
+    margin: 10px;
+}
+
+.divpropaganda {
+    margin-top: 50px;
+
+}
+
+#link {
+    color: #000000;
+}
+
+body {
+    background-color: #ffffff;
+}
+
+.geral {
+    background-color: rgb(57, 53, 53);
+}
+
+.zapzapcolor {
+    background-color: #39890f;
+}
+
+.instacolor {
+    background-color: #b12c2c;
+}
+
+.facecolor {
+    background-color: #4267B2;
+}
+
+.tel {
+    background-color: rgb(40, 71, 157);
+    border: 0px;
+}
+.site {
+    background-color: rgb(208, 31, 160);
+    border: 0px;
+}
+.addctt {
+    background-color: rgb(222, 147, 44);
+    border: 0px;
+}
+.compartilhar {
+    background-color: rgb(216, 193, 19);
+    border: 0px;
+}
